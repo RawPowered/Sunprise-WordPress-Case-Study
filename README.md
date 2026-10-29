@@ -15,7 +15,7 @@
   <a href="assets/case-study/blog-fold.png"><img src="assets/case-study/blog-fold.png" alt="Sunprise blog archive with image-led article cards" width="49%"></a>
 </p>
 
-<p align="center"><a href="https://rawpowered.github.io/Sunprise-WordPress-Case-Study/">Explore the case study</a> · <a href="#page-speed">Page speed</a> · <a href="#the-later-sunlectric-theme">Explore the related theme</a></p>
+<p align="center"><a href="https://rawpowered.github.io/Sunprise-WordPress-Case-Study/">Explore the case study</a> · <a href="#seo-and-content-strategy">SEO &amp; page speed</a> · <a href="#the-later-sunlectric-theme">Explore the related theme</a></p>
 
 # Sunprise WordPress website
 
@@ -76,9 +76,20 @@ The archived active-plugin record identifies the following products. Links credi
 
 Original page layouts, portfolio organization, content structure, and private operational integrations were built alongside these third-party tools. Premium packages, private code, and licensed media remain subject to their owners’ terms.
 
-## Search and content evidence
+## SEO and content strategy
 
-The backup contains **37 Yoast title entries, 37 description entries, and 36 focus-keyword entries**. A restored roofing article rendered a description and canonical URL. Service and location pages and practical blog articles show how the site organized content for discovery; the available evidence does not establish search rankings or business outcomes.
+The archived build organized search-focused content around the services homeowners might need and the places they might need them. The work visible in the restoration includes:
+
+- **Service landing pages:** Dedicated pages for remodeling, roofing, electrical, insulation, generators, and solar create distinct paths into the site. The homepage highlights those services and links visitors to deeper content.
+- **Local discovery:** Florida service-area pages and location references connect the site’s services to specific markets. These pages document the site’s geographic content strategy; the archive does not establish their search rankings.
+- **Helpful editorial content:** Blog articles answer homeowner questions about roofing, remodeling, and generators. The restored roofing article uses a descriptive title and summary followed by sections on evaluation, red flags, and construction standards.
+- **On-page metadata:** The backup contains **37 Yoast title entries, 37 description entries, and 36 focus-keyword entries**. These are database entry counts, not a count of optimized public pages. One restored roofing article was verified to render a meta description and canonical URL.
+- **Content navigation:** The menu, project archive, article cards, breadcrumbs, and links between the homepage and service pages help connect related content and provide paths through the site.
+- **Tools:** [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) and [Google Site Kit](https://sitekit.withgoogle.com/) appear in the archive’s active-plugin record. Their presence does not establish traffic or ranking results.
+
+### SEO audit snapshot
+
+The partially restored staging homepage received a **92/100 Lighthouse SEO score on mobile and 92/100 on desktop** in a PageSpeed Insights test on **October 28, 2026**. These are automated checks of that staging page, not historical scores for the original live site, proof of search rankings, or a comprehensive SEO audit. The test environment and restoration differed from production, including missing slider videos.
 
 ## Page speed
 
@@ -97,5 +108,3 @@ This repository is a visual case study and does not include an installable WordP
 - [Joseph Edwards on GitHub](https://github.com/RawPowered)
 
 Design and development by [Joseph Edwards](https://github.com/RawPowered). Third-party names and marks belong to their respective owners.
-
-
