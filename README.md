@@ -99,7 +99,13 @@ During the **same dates**, Facebook reported **20,272 content views**, of which 
   </tr>
 </table>
 
-**Context and limits:** According to the project owner, the previous Webflow site was not connected to Google Analytics, and access to the existing accounts was transferred gradually. There is no comparable pre-rebuild Google Analytics baseline here. These figures show measured activity, not proof that the WordPress rebuild caused a change in traffic, leads, or sales. GA reported no key events in this report; that does not establish that no inquiries occurred. Facebook’s on-screen percentage is its platform comparison and is not a before-and-after comparison of the websites. Internal activity, attribution, consent, and tracking configuration can affect the numbers.
+### Measurement and business context
+
+At the transition, website traffic was not being measured in Google Analytics: the prior Webflow site had not been connected, and access to existing accounts transferred gradually. According to Joseph Edwards, the previous owner described the website’s online activity as “not good,” and prior deals had not been identified as originating from the website or search. No historical analytics are available here to independently verify that assessment or quantify a pre-rebuild baseline. Facebook received much of the earlier online attention.
+
+During the period that included paid promotions, Joseph reports receiving phone inquiries from businesses and residents who said they found Sunprise through organic Google searches and were seeking quotes. This is a firsthand account of inquiries, not a result established by the analytics reports or proof that a particular promotion caused them.
+
+**Context and limits:** There is no comparable pre-rebuild Google Analytics baseline here. These figures show measured activity, not proof that the WordPress rebuild caused a change in traffic, leads, or sales. GA reported no key events in this report; that does not establish that no inquiries occurred. Facebook’s on-screen percentage is its platform comparison and is not a before-and-after comparison of the websites. Internal activity, attribution, consent, and tracking configuration can affect the numbers.
 
 ## SEO and content strategy
 
