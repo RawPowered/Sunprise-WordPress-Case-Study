@@ -25,11 +25,28 @@ I moved Sunprise’s business files, email and web presence onto a new platform 
 
 ## The WordPress build
 
-<p align="center"><img src="assets/glass-site-build.webp" alt="Glass website pages, editorial article and project gallery" width="100%"></p>
-
-| Pages | Blog posts | Portfolio |
-| :---: | :---: | :---: |
-| **50 published records** | **13 published posts** | **30 published records** |
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<h3>Pages</h3>
+<img src="assets/sections/pages.svg" alt="WordPress / Page System — Pages" width="100%">
+<img src="assets/icons/pages-glass.webp" alt="Translucent glass stack of website pages" width="240">
+<p><strong>50 published records</strong><br>Service, location and company pages</p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>Blog Posts</h3>
+<img src="assets/sections/blog.svg" alt="WordPress / Editorial — Blog Posts" width="100%">
+<img src="assets/icons/blog-glass.webp" alt="Translucent glass editorial article" width="240">
+<p><strong>13 published posts</strong><br>Roofing, remodeling and home systems</p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>Portfolio</h3>
+<img src="assets/sections/portfolio.svg" alt="WordPress / Projects — Portfolio" width="100%">
+<img src="assets/icons/portfolio-glass.webp" alt="Translucent glass project gallery" width="240">
+<p><strong>30 published records</strong><br>Projects and detailed work narratives</p>
+</td>
+</tr>
+</table>
 
 <sub>Archive inventory; page and portfolio totals include demo and operational records.</sub>
 

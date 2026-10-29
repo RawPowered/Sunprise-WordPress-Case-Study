@@ -9,3 +9,5 @@ The small WebP document glyph is original SVG artwork.
 ## Case-study artwork
 
 The glass website and outcome illustrations were generated with OpenAI image generation on October 29, 2026 and optimized as WebP for this showcase. They are decorative; statistics and claims are presented separately as text. Original generated PNGs remain in the local project.
+
+The individual Pages, Blog Posts and Portfolio glass renders were generated on October 29, 2026 with transparent backgrounds, then optimized to WebP with alpha preserved. Their title strips follow the clipped-corner charcoal/lime panel design used in the RawPowered profile.
