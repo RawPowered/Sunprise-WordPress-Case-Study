@@ -13,3 +13,13 @@
 .score-card h3{margin:23px 0 14px;color:var(--text);font-size:clamp(58px,6vw,82px);line-height:1;letter-spacing:-.05em}
 .score-card h3 small{color:var(--muted);font-size:22px;letter-spacing:0;font-weight:500}
 .analytics-evidence{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start}.analytics-evidence .site-capture{margin-top:24px}.analytics-evidence a{display:block}.analytics-evidence img{width:100%;height:auto}@media(max-width:720px){.analytics-evidence{grid-template-columns:1fr}}
+/* Give the story, evidence, and metrics room to breathe. */
+.glass-outcomes{display:block;width:100%;height:auto;margin:clamp(32px,5vw,62px) 0 0;border:1px solid var(--line);border-radius:12px}
+.case-hero .case-stats{margin-top:24px}
+.section-heading{margin-bottom:clamp(32px,4vw,58px)}
+.case-layout-grid{gap:clamp(18px,2vw,26px)}
+.case-stack{margin-top:clamp(32px,4vw,56px)}
+#activity .case-stats{margin-bottom:26px}
+#activity .analytics-evidence{margin-top:clamp(28px,4vw,50px)}
+#search .section-heading:not(:first-child){margin-top:clamp(56px,7vw,90px)}
+@media(max-width:720px){.glass-outcomes{margin-top:32px}.section-heading{margin-bottom:28px}.case-stack{margin-top:32px}}

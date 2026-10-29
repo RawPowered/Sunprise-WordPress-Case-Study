@@ -4,6 +4,8 @@
 
 <p align="center"><strong>MIGRATION / DELIVERY / MEASURED ACTIVITY</strong></p>
 
+<p align="center"><img src="assets/glass-outcomes.png" alt="Glass icons representing migration, email continuity, search discovery, and audience reach" width="100%"></p>
+
 <p align="center"><img src="assets/project-outcomes.svg" alt="About two weeks for migration; no emails lost; 195 organic search sessions and 20,272 Facebook content views during the stated measurement period" width="100%"></p>
 
 <p align="center"><strong>THE ORIGINAL BUILD / HOMEPAGE</strong></p>
@@ -29,6 +31,9 @@ The website screenshots come from an isolated local restoration of the archived 
 
 > **Showcase scope:** This case study contains screenshots and project documentation. The WordPress backup, database, theme and plugin packages, private operational integrations, and videos remain outside this repository.
 
+
+---
+
 ## Challenge → action → outcome
 
 Migrate Sunprise’s website, domain, and email from Microsoft 365, GoDaddy, and Webflow to Google Workspace, Namecheap, and WordPress—while resolving DNS errors and maintaining email continuity.
@@ -38,6 +43,9 @@ Migrate Sunprise’s website, domain, and email from Microsoft 365, GoDaddy, and
 - ✅ **Built a WordPress presence** with service and location pages, project galleries, a blog, and search-focused content.
 - ✅ **Established measurement:** 195 organic-search sessions and 20,272 Facebook content views during the WordPress reporting period of July 19–October 5, 2026.
 - ✅ **Received quote inquiries:** Businesses and residents called after finding Sunprise through organic Google searches, during a period that also included paid promotions.
+
+
+---
 
 ## Website at a glance
 
@@ -50,6 +58,9 @@ Migrate Sunprise’s website, domain, and email from Microsoft 365, GoDaddy, and
 
 The database export contains **50 published page records, 30 published portfolio records, and 13 published blog posts**. These are archive inventory counts; page and portfolio totals include demo or operational records and should not be read as counts of public destinations.
 
+
+---
+
 ## Pages and presentation
 
 <table>
@@ -60,6 +71,9 @@ The database export contains **50 published page records, 30 published portfolio
 </table>
 
 [See the homepage, project archive, project detail, blog archive, and article in the case study](index.html).
+
+
+---
 
 ## Technology and attribution
 
@@ -90,6 +104,9 @@ The archived active-plugin record identifies the following products. Links credi
 
 Original page layouts, portfolio organization, content structure, and private operational integrations were built alongside these third-party tools. Premium packages, private code, and licensed media remain subject to their owners’ terms.
 
+
+---
+
 ## Measured activity
 
 From **July 19 through October 5, 2026**, the first and last dates with recorded sessions in the Google Analytics report reviewed from January 2025 through October 28, 2026, the property recorded:
@@ -115,6 +132,9 @@ During the **same dates**, Facebook reported **20,272 content views**, of which 
 
 **Measurement context:** These figures cover the WordPress site. The earlier Webflow site was not connected to Google Analytics, so a comparable before-and-after baseline is unavailable. Facebook content views are separate from website visits; the screenshot’s comparison percentage is Meta’s platform comparison. The new website and Facebook activity were requested within the last year, and the duration of earlier web-presence work cannot be established from the available records.
 
+
+---
+
 ## SEO and content strategy
 
 The archived build organized search-focused content around the services homeowners might need and the places they might need them. The work visible in the restoration includes:
@@ -134,13 +154,22 @@ The archived build organized search-focused content around the services homeowne
 
 The partially restored staging homepage received a **92/100 Lighthouse SEO score on mobile and 92/100 on desktop** in a PageSpeed Insights test on **October 28, 2026**. These are automated checks of that staging page, not historical scores for the original live site, proof of search rankings, or a comprehensive SEO audit. The test environment and restoration differed from production, including missing slider videos. Metadata, canonical links, and crawlability are relevant technical SEO practices observed in the project; the available report does not establish which individual changes caused the score. `llms.txt` is documented as a separate AI-oriented index, not a Lighthouse scoring factor.
 
+
+---
+
 ## Page speed
 
 Page speed could not be reliably re-tested for the former live site because the test environment used a different hosting configuration. The staging restoration was also incomplete and did not include the original slider videos. No historical production speed result is claimed.
 
+
+---
+
 ## The later Sunlectric theme
 
 The separate [Sunlectric theme showcase](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase) draws inspiration from elements of this work, including the centered logo navigation and solar presentation. It is a later rebranded theme project, not the original Sunprise WordPress build documented here.
+
+
+---
 
 ## Project status and source boundaries
 
