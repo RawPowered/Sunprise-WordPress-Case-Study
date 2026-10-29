@@ -23,3 +23,4 @@
 #activity .analytics-evidence{margin-top:clamp(28px,4vw,50px)}
 #search .section-heading:not(:first-child){margin-top:clamp(56px,7vw,90px)}
 @media(max-width:720px){.glass-outcomes{margin-top:32px}.section-heading{margin-bottom:28px}.case-stack{margin-top:32px}}
+.case-hero .build-heading{margin:clamp(48px,6vw,80px) 0 18px;color:var(--lime);font-size:12px;font-weight:800;letter-spacing:.15em}.case-hero .glass-build{margin-top:0}.case-hero .build-inventory{margin-top:24px}

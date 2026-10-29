@@ -2,6 +2,12 @@
   <img src="assets/sunprise-case-study-banner.svg" alt="Sunprise WordPress website case study" width="100%">
 </p>
 
+<p align="center"><strong>THE BUILD / PAGES · EDITORIAL · PROJECTS</strong></p>
+
+<p align="center"><img src="assets/glass-site-build.png" alt="Glass illustrations of website pages, editorial articles, and a project gallery" width="100%"></p>
+
+<p align="center"><strong>50 published page records · 13 published blog posts · 30 published portfolio records</strong><br><sub>Archived inventory; page and portfolio counts include demo and operational records.</sub></p>
+
 <p align="center"><strong>MIGRATION / DELIVERY / MEASURED ACTIVITY</strong></p>
 
 <p align="center"><img src="assets/glass-outcomes.png" alt="Glass icons representing migration, email continuity, search discovery, and audience reach" width="100%"></p>
@@ -40,6 +46,7 @@ Migrate Sunprise’s website, domain, and email from Microsoft 365, GoDaddy, and
 
 - ✅ **Delivered the migration in approximately two weeks**, with no emails lost.
 - ✅ **Diagnosed DNS and mail issues** using [DNS-Sentinel](https://github.com/RawPowered/DNS-Sentinel), coordinating fixes through provider support and phone calls.
+- ✅ **Configured Zoom Phone VoIP** for multiple people, managed call routing, and created call-menu logic and recordings.
 - ✅ **Built a WordPress presence** with service and location pages, project galleries, a blog, and search-focused content.
 - ✅ **Established measurement:** 195 organic-search sessions and 20,272 Facebook content views during the WordPress reporting period of July 19–October 5, 2026.
 - ✅ **Received quote inquiries:** Businesses and residents called after finding Sunprise through organic Google searches, during a period that also included paid promotions.
