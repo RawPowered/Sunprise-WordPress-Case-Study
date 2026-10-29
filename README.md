@@ -15,11 +15,11 @@
   <a href="assets/case-study/blog-fold.png"><img src="assets/case-study/blog-fold.png" alt="Sunprise blog archive with image-led article cards" width="49%"></a>
 </p>
 
-<p align="center"><a href="https://rawpowered.github.io/Sunprise-WordPress-Case-Study/">Explore the case study</a> · <a href="#performance-evidence">View performance evidence</a> · <a href="#the-later-sunlectric-theme">Explore the related theme</a></p>
+<p align="center"><a href="https://rawpowered.github.io/Sunprise-WordPress-Case-Study/">Explore the case study</a> · <a href="#page-speed">Page speed</a> · <a href="#the-later-sunlectric-theme">Explore the related theme</a></p>
 
 # Sunprise WordPress website
 
-A case study by **Joseph Edwards ([RawPowered](https://github.com/RawPowered))** documenting the archived Sunprise WordPress build: its contractor-facing pages, project portfolio, blog, third-party tools, search structure, and limited staging performance test. The site covered remodeling, roofing, electrical work, insulation, generators, and solar services across Florida.
+A case study by **Joseph Edwards ([RawPowered](https://github.com/RawPowered))** documenting the archived Sunprise WordPress build: its contractor-facing pages, project portfolio, blog, third-party tools, search structure, and approach to search and performance. The site covered remodeling, roofing, electrical work, insulation, generators, and solar services across Florida.
 
 The screenshots come from an isolated local restoration of the archived website. The original site used **TheGem** with Elementor and site-specific page layouts; the later Sunlectric theme is a separate project inspired in part by this work.
 
@@ -80,23 +80,9 @@ Original page layouts, portfolio organization, content structure, and private op
 
 The backup contains **37 Yoast title entries, 37 description entries, and 36 focus-keyword entries**. A restored roofing article rendered a description and canonical URL. Service and location pages and practical blog articles show how the site organized content for discovery; the available evidence does not establish search rankings or business outcomes.
 
-## Performance evidence
+## Page speed
 
-A temporary, **partially restored** Sunprise homepage was tested with PageSpeed Insights / Lighthouse 13.5.0 on **October 28, 2026**. Mobile used an emulated Moto G Power and slow 4G; desktop used Lighthouse desktop throttling.
-
-| Lab result | Mobile | Desktop |
-| --- | ---: | ---: |
-| Performance | **57 / 100** | **79 / 100** |
-| Accessibility | 87 / 100 | 85 / 100 |
-| Best practices | 96 / 100 | 96 / 100 |
-| SEO | 92 / 100 | 92 / 100 |
-| First contentful paint | 3.3 s | 0.7 s |
-| Largest contentful paint | 17.6 s | 2.3 s |
-| Total blocking time | 160 ms | 80 ms |
-| Cumulative layout shift | 0.047 | 0.023 |
-| Speed index | 10.8 s | 3.2 s |
-
-**Limits:** This was a single lab run of a temporary staging copy, with slider posters and some homepage images restored but the original slider videos missing. Hosting and configuration also differed. These numbers are not historical Sunprise.com results and do not represent a complete restoration; no real-user field data was available. The mobile audit identified render-blocking requests and a 3,854 KiB network payload among its findings. [View the recorded PageSpeed report](https://pagespeed.web.dev/analysis/https-speedlab-rawlabs-paylesswatts-com-arch-sp/qm9fnyto5v?form_factor=mobile).
+Page speed could not be reliably re-tested for the former live site because the test environment used a different hosting configuration. The staging restoration was also incomplete and did not include the original slider videos. No historical production speed result is claimed.
 
 ## The later Sunlectric theme
 
@@ -104,12 +90,12 @@ The separate [Sunlectric theme showcase](https://github.com/RawPowered/Sunlectri
 
 ## Project status and source boundaries
 
-This repository is a visual case study and does not include an installable WordPress site. The original WordPress backup and full source remain private; this case study does not grant a license to use the theme, plugins, images, or underlying site. The PageSpeed report describes a temporary test environment and may no longer be rerunnable after its removal.
+This repository is a visual case study and does not include an installable WordPress site. The original WordPress backup and full source remain private; this case study does not grant a license to use the theme, plugins, images, or underlying site.
 
 - [Open the Sunprise case study](index.html)
 - [View the Sunlectric theme showcase](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase)
-- [Dated performance record](performance/2026-10-28.md)
 - [Joseph Edwards on GitHub](https://github.com/RawPowered)
 
 Design and development by [Joseph Edwards](https://github.com/RawPowered). Third-party names and marks belong to their respective owners.
+
 
