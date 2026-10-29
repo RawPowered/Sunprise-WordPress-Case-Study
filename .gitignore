@@ -1,0 +1,14 @@
+# Only case-study material belongs here.
+*.sql
+*.sql.gz
+*.zip
+*.mp4
+*.mov
+*.webm
+*.m4v
+*.avi
+*.mkv
+wp-config.php
+wp-content/
+.env
+.env.*
