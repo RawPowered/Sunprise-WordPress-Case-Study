@@ -12,3 +12,4 @@
 .score-card{position:relative;overflow:hidden;border-top:2px solid var(--lime);background:radial-gradient(circle at 100% 0%,#d5ff3f1b,transparent 55%),linear-gradient(145deg,#202829,#101315)}
 .score-card h3{margin:23px 0 14px;color:var(--text);font-size:clamp(58px,6vw,82px);line-height:1;letter-spacing:-.05em}
 .score-card h3 small{color:var(--muted);font-size:22px;letter-spacing:0;font-weight:500}
+.analytics-evidence{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start}.analytics-evidence .site-capture{margin-top:24px}.analytics-evidence a{display:block}.analytics-evidence img{width:100%;height:auto}@media(max-width:720px){.analytics-evidence{grid-template-columns:1fr}}

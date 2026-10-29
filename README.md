@@ -2,6 +2,10 @@
   <img src="assets/sunprise-case-study-banner.svg" alt="Sunprise WordPress website case study" width="100%">
 </p>
 
+<p align="center"><strong>MIGRATION / DELIVERY / MEASURED ACTIVITY</strong></p>
+
+<p align="center"><img src="assets/project-outcomes.svg" alt="About two weeks for migration; no emails lost; 195 organic search sessions and 20,272 Facebook content views during the stated measurement period" width="100%"></p>
+
 <p align="center"><strong>THE ORIGINAL BUILD / HOMEPAGE</strong></p>
 
 <p align="center">
@@ -21,9 +25,24 @@
 
 A case study by **Joseph Edwards ([RawPowered](https://github.com/RawPowered))** documenting the archived Sunprise WordPress build: its contractor-facing pages, project portfolio, blog, third-party tools, search structure, and approach to search and performance. The site covered remodeling, roofing, electrical work, insulation, generators, and solar services across Florida.
 
-The screenshots come from an isolated local restoration of the archived website. The original site used **TheGem** with Elementor and site-specific page layouts; the later Sunlectric theme is a separate project inspired in part by this work.
+The website screenshots come from an isolated local restoration of the archived website. The original site used **TheGem** with Elementor and site-specific page layouts; the later Sunlectric theme is a separate project inspired in part by this work.
 
 > **Showcase scope:** This case study contains screenshots and project documentation. The WordPress backup, database, theme and plugin packages, private operational integrations, and videos remain outside this repository.
+
+## The challenge and the response
+
+Sunprise needed a coordinated move from Microsoft 365, GoDaddy, and Webflow to Google Workspace, Namecheap, and WordPress. Joseph Edwards reports that the migration took **about two weeks**, with **no emails lost**. GoDaddy DNS errors extended the work: diagnosing the issues meant working across provider support channels and phone calls while coordinating the changes needed to complete the transition.
+
+[DNS-Sentinel](https://github.com/RawPowered/DNS-Sentinel), Joseph’s domain and email diagnostics tool, supported that response by helping diagnose DNS and mail configuration. Its documented checks include DNS records, mail-provider detection, and email connectivity. The completed work combined the migration with the WordPress site, search-focused service and location content, and a measurable analytics setup.
+
+The CEO requested a new website and Facebook activity only more recently, within the last year. The longevity of earlier web-presence work cannot be established from the available records. The website analytics below concern the **WordPress build**, and there is no comparable Google Analytics baseline for the earlier Webflow site.
+
+### What the work delivered
+
+- **A coordinated migration:** Microsoft 365, GoDaddy, and Webflow to Google Workspace, Namecheap, and WordPress in approximately two weeks, with no emails lost, as reported by Joseph.
+- **Search discovery:** Google Analytics recorded **195 organic-search sessions** during the measured WordPress period. Joseph also reports phone inquiries from businesses and residents who said they found Sunprise through organic Google searches.
+- **Social visibility:** Facebook recorded **20,272 content views** in the same reporting window, with 72.2% classified as link content. Content views are not website visits or unique people.
+- **A reusable web presence:** Service and location pages, a project gallery, editorial content, and search metadata gave the contractor site a structured foundation for discovery.
 
 ## Website at a glance
 
@@ -94,8 +113,8 @@ During the **same dates**, Facebook reported **20,272 content views**, of which 
 
 <table>
   <tr>
-    <td width="50%"><a href="assets/analytics/google-analytics-acquisition.jpg"><img src="assets/analytics/google-analytics-acquisition.jpg" alt="Google Analytics traffic acquisition report for July 19 to October 5, 2026 showing 755 sessions and channel breakdown" width="100%"></a><br><strong>Google Analytics</strong><br>Session acquisition and engagement by channel.</td>
-    <td width="50%"><a href="assets/analytics/facebook-views.jpg"><img src="assets/analytics/facebook-views.jpg" alt="Facebook Insights for July 19 to October 5 showing 20,272 content views" width="100%"></a><br><strong>Facebook Insights</strong><br>Content views and content-type breakdown.</td>
+    <td width="50%"><a href="assets/analytics/google-analytics-detail.jpg"><img src="assets/analytics/google-analytics-detail.jpg" alt="Google Analytics traffic acquisition report for July 19 to October 5, 2026 showing 755 sessions and channel breakdown" width="100%"></a><br><strong>Google Analytics</strong><br>Session acquisition and engagement by channel.</td>
+    <td width="50%"><a href="assets/analytics/facebook-views-detail.jpg"><img src="assets/analytics/facebook-views-detail.jpg" alt="Facebook Insights for July 19 to October 5 showing 20,272 content views" width="100%"></a><br><strong>Facebook Insights</strong><br>Content views and content-type breakdown.</td>
   </tr>
 </table>
 
@@ -105,7 +124,7 @@ At the transition, website traffic was not being measured in Google Analytics: t
 
 During the period that included paid promotions, Joseph reports receiving phone inquiries from businesses and residents who said they found Sunprise through organic Google searches and were seeking quotes. This is a firsthand account of inquiries, not a result established by the analytics reports or proof that a particular promotion caused them.
 
-**Context and limits:** There is no comparable pre-rebuild Google Analytics baseline here. These figures show measured activity, not proof that the WordPress rebuild caused a change in traffic, leads, or sales. GA reported no key events in this report; that does not establish that no inquiries occurred. Facebook’s on-screen percentage is its platform comparison and is not a before-and-after comparison of the websites. Internal activity, attribution, consent, and tracking configuration can affect the numbers.
+**Context and limits:** There is no comparable pre-rebuild Google Analytics baseline here. These figures establish measurable activity during the WordPress period; a before-and-after improvement cannot be quantified without the earlier baseline. GA reported no key events in this report; that does not establish that no inquiries occurred. Facebook’s on-screen percentage is its platform comparison and is not a before-and-after comparison of the websites. Internal activity, attribution, consent, and tracking configuration can affect the numbers.
 
 ## SEO and content strategy
 
