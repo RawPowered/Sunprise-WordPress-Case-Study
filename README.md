@@ -15,7 +15,7 @@
   <a href="assets/case-study/blog-fold.png"><img src="assets/case-study/blog-fold.png" alt="Sunprise blog archive with image-led article cards" width="49%"></a>
 </p>
 
-<p align="center"><a href="index.html">Explore the case study</a> · <a href="#performance-evidence">View performance evidence</a> · <a href="#the-later-sunlectric-theme">Explore the related theme</a></p>
+<p align="center"><a href="https://rawpowered.github.io/Sunprise-WordPress-Case-Study/">Explore the case study</a> · <a href="#performance-evidence">View performance evidence</a> · <a href="#the-later-sunlectric-theme">Explore the related theme</a></p>
 
 # Sunprise WordPress website
 
@@ -112,3 +112,4 @@ This repository is a visual case study and does not include an installable WordP
 - [Joseph Edwards on GitHub](https://github.com/RawPowered)
 
 Design and development by [Joseph Edwards](https://github.com/RawPowered). Third-party names and marks belong to their respective owners.
+
