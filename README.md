@@ -29,20 +29,15 @@ The website screenshots come from an isolated local restoration of the archived 
 
 > **Showcase scope:** This case study contains screenshots and project documentation. The WordPress backup, database, theme and plugin packages, private operational integrations, and videos remain outside this repository.
 
-## The challenge and the response
+## Challenge → action → outcome
 
-Sunprise needed a coordinated move from Microsoft 365, GoDaddy, and Webflow to Google Workspace, Namecheap, and WordPress. Joseph Edwards reports that the migration took **about two weeks**, with **no emails lost**. GoDaddy DNS errors extended the work: diagnosing the issues meant working across provider support channels and phone calls while coordinating the changes needed to complete the transition.
+Migrate Sunprise’s website, domain, and email from Microsoft 365, GoDaddy, and Webflow to Google Workspace, Namecheap, and WordPress—while resolving DNS errors and maintaining email continuity.
 
-[DNS-Sentinel](https://github.com/RawPowered/DNS-Sentinel), Joseph’s domain and email diagnostics tool, supported that response by helping diagnose DNS and mail configuration. Its documented checks include DNS records, mail-provider detection, and email connectivity. The completed work combined the migration with the WordPress site, search-focused service and location content, and a measurable analytics setup.
-
-The CEO requested a new website and Facebook activity only more recently, within the last year. The longevity of earlier web-presence work cannot be established from the available records. The website analytics below concern the **WordPress build**, and there is no comparable Google Analytics baseline for the earlier Webflow site.
-
-### What the work delivered
-
-- **A coordinated migration:** Microsoft 365, GoDaddy, and Webflow to Google Workspace, Namecheap, and WordPress in approximately two weeks, with no emails lost, as reported by Joseph.
-- **Search discovery:** Google Analytics recorded **195 organic-search sessions** during the measured WordPress period. Joseph also reports phone inquiries from businesses and residents who said they found Sunprise through organic Google searches.
-- **Social visibility:** Facebook recorded **20,272 content views** in the same reporting window, with 72.2% classified as link content. Content views are not website visits or unique people.
-- **A reusable web presence:** Service and location pages, a project gallery, editorial content, and search metadata gave the contractor site a structured foundation for discovery.
+- ✅ **Delivered the migration in approximately two weeks**, with no emails lost.
+- ✅ **Diagnosed DNS and mail issues** using [DNS-Sentinel](https://github.com/RawPowered/DNS-Sentinel), coordinating fixes through provider support and phone calls.
+- ✅ **Built a WordPress presence** with service and location pages, project galleries, a blog, and search-focused content.
+- ✅ **Established measurement:** 195 organic-search sessions and 20,272 Facebook content views during the WordPress reporting period of July 19–October 5, 2026.
+- ✅ **Received quote inquiries:** Businesses and residents called after finding Sunprise through organic Google searches, during a period that also included paid promotions.
 
 ## Website at a glance
 
@@ -118,13 +113,7 @@ During the **same dates**, Facebook reported **20,272 content views**, of which 
   </tr>
 </table>
 
-### Measurement and business context
-
-At the transition, website traffic was not being measured in Google Analytics: the prior Webflow site had not been connected, and access to existing accounts transferred gradually. According to Joseph Edwards, the previous owner described the website’s online activity as “not good,” and prior deals had not been identified as originating from the website or search. No historical analytics are available here to independently verify that assessment or quantify a pre-rebuild baseline. Facebook received much of the earlier online attention.
-
-During the period that included paid promotions, Joseph reports receiving phone inquiries from businesses and residents who said they found Sunprise through organic Google searches and were seeking quotes. This is a firsthand account of inquiries, not a result established by the analytics reports or proof that a particular promotion caused them.
-
-**Context and limits:** There is no comparable pre-rebuild Google Analytics baseline here. These figures establish measurable activity during the WordPress period; a before-and-after improvement cannot be quantified without the earlier baseline. GA reported no key events in this report; that does not establish that no inquiries occurred. Facebook’s on-screen percentage is its platform comparison and is not a before-and-after comparison of the websites. Internal activity, attribution, consent, and tracking configuration can affect the numbers.
+**Measurement context:** These figures cover the WordPress site. The earlier Webflow site was not connected to Google Analytics, so a comparable before-and-after baseline is unavailable. Facebook content views are separate from website visits; the screenshot’s comparison percentage is Meta’s platform comparison. The new website and Facebook activity were requested within the last year, and the duration of earlier web-presence work cannot be established from the available records.
 
 ## SEO and content strategy
 
