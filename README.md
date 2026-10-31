@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/sunprise-case-study-banner.svg" alt="Sunprise — business migration and WordPress case study" width="100%"></p>
+<p align="center"><img src="assets/sunprise-case-study-banner.svg" alt="Sunprise; business migration and WordPress case study" width="100%"></p>
 
 # Sunprise · migration, web & communications
 
@@ -29,19 +29,19 @@ I moved Sunprise’s business files, email and web presence onto a new platform 
 <tr>
 <td width="33%" align="center" valign="top">
 <h3>Pages</h3>
-<img src="assets/sections/pages.svg" alt="WordPress / Page System — Pages" width="100%">
+<img src="assets/sections/pages.svg" alt="WordPress / Page System; Pages" width="100%">
 <img src="assets/icons/pages-glass.webp" alt="Translucent glass stack of website pages" width="240">
 <p><strong>50 published records</strong><br>Service, location and company pages</p>
 </td>
 <td width="33%" align="center" valign="top">
 <h3>Blog Posts</h3>
-<img src="assets/sections/blog.svg" alt="WordPress / Editorial — Blog Posts" width="100%">
+<img src="assets/sections/blog.svg" alt="WordPress / Editorial; Blog Posts" width="100%">
 <img src="assets/icons/blog-glass.webp" alt="Translucent glass editorial article" width="240">
 <p><strong>13 published posts</strong><br>Roofing, remodeling and home systems</p>
 </td>
 <td width="33%" align="center" valign="top">
 <h3>Portfolio</h3>
-<img src="assets/sections/portfolio.svg" alt="WordPress / Projects — Portfolio" width="100%">
+<img src="assets/sections/portfolio.svg" alt="WordPress / Projects; Portfolio" width="100%">
 <img src="assets/icons/portfolio-glass.webp" alt="Translucent glass project gallery" width="240">
 <p><strong>30 published records</strong><br>Projects and detailed work narratives</p>
 </td>
@@ -69,7 +69,7 @@ I moved Sunprise’s business files, email and web presence onto a new platform 
 
 ## Measured activity
 
-**WordPress reporting period: July 19–October 5, 2026**
+**WordPress reporting period: July 19-October 5, 2026**
 
 | Google Analytics | Result | Facebook | Result |
 | --- | ---: | --- | ---: |
@@ -84,7 +84,7 @@ I also received quote inquiries by phone from businesses and residents who said 
 <details>
 <summary><strong>Inspect the analytics screenshots and measurement context</strong></summary>
 
-<p><a href="assets/analytics/google-analytics-detail.jpg"><img src="assets/analytics/google-analytics-detail.jpg" alt="Google Analytics acquisition report for July 19–October 5, 2026" width="49%"></a> <a href="assets/analytics/facebook-views-detail.jpg"><img src="assets/analytics/facebook-views-detail.jpg" alt="Facebook content views for the same period" width="49%"></a></p>
+<p><a href="assets/analytics/google-analytics-detail.jpg"><img src="assets/analytics/google-analytics-detail.jpg" alt="Google Analytics acquisition report for July 19-October 5, 2026" width="49%"></a> <a href="assets/analytics/facebook-views-detail.jpg"><img src="assets/analytics/facebook-views-detail.jpg" alt="Facebook content views for the same period" width="49%"></a></p>
 
 These figures cover the WordPress site. The earlier Webflow site had no comparable Google Analytics baseline. The new website and Facebook activity were requested within the last year; the longevity of earlier web-presence work cannot be established from the records. Facebook views are separate from website visits; Meta’s comparison percentage is not a before-and-after website comparison. Organic social includes multiple platforms.
 
@@ -97,7 +97,7 @@ These figures cover the WordPress site. The earlier Webflow site had no comparab
 <p align="center"><img src="assets/seo-audit.svg" alt="Lighthouse staging SEO scores: 92 mobile and 92 desktop, October 28, 2026" width="100%"></p>
 
 - ✅ Service and location landing pages supported local discovery.
-- ✅ The archive contains **37 Yoast title entries, 37 descriptions and 36 focus-keyword entries**; a restored article rendered a description and canonical URL.
+- ✅ The archive contains **37 Yoast title entries, 37 descriptions and 36 focus-keyword entries**: a restored article rendered a description and canonical URL.
 - ✅ `robots.txt` supplied crawler rules and a sitemap reference; Yoast generated an `llms.txt` index.
 
 **Audit scope:** The 92/100 scores are automated checks of a partially restored staging homepage. Page speed could not be reliably retested because hosting configurations differed. The `llms.txt` index needs editorial review and is separate from Lighthouse scoring. [Read the implementation notes](docs/implementation.md).
